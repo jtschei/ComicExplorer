@@ -1,0 +1,4 @@
+<ehcache>
+    <diskStore path="c://temp"/>
+    <cache eternal="true" maxElementsInMemory="0" name="characters" overflowToDisk="true"/>
+</ehcache>
